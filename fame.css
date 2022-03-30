@@ -1,0 +1,83 @@
+.rwc-button--outlined.rwc-button--primary[data-v-1e541e8d] {
+    background: transparent;
+    color: #fd7e14;
+    border-radius: 200px;
+    -webkit-transition: opacity .4s,background-color .4s,color .4s;
+    transition: opacity .4s,background-color .4s,color .4s;
+}
+.rwc-button--outlined.rwc-button--primary[data-v-1e541e8d]:hover {
+    background-color: #fd7e14;
+}
+
+.rwc-button[data-v-1e541e8d] {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    max-width: 100%;
+    padding: 9px 10px;
+    outline: none;
+    border: 1px solid var(--orange);
+    border-radius: 4px;
+    font-family: SFProText,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    cursor: pointer;
+    height: auto;
+    -webkit-box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+    font-size: var(--fontSize);
+    line-height: 16px;
+    overflow: hidden;
+}
+
+.rwc-button--outlined.rwc-button--primary[data-v-1e541e8d] {
+    background: transparent;
+    color: var(--orange);
+    -webkit-transition: opacity .4s,background-color .4s,color .4s;
+    transition: opacity .4s,background-color .4s,color .4s;
+}
+
+
+.message-bubble--blue {
+    background-color: var(--orange);
+    color: var(--textColorInvert);
+    border-radius: 8px 8px 0 8px;
+}
+
+.rwc-button[data-v-1e541e8d] {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    max-width: 100%;
+    padding: 9px 10px;
+    outline: none;
+    border: 1px solid var(--orange);
+    border-radius: 4px;
+    font-family: SFProText,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    cursor: pointer;
+    height: auto;
+    -webkit-box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+    font-size: var(--fontSize);
+    line-height: 16px;
+    overflow: hidden;
+}
+
+.rwc-button--outlined.rwc-button--primary[data-v-1e541e8d] {
+    background: transparent;
+    color: var(--orange);
+    -webkit-transition: opacity .4s,background-color .4s,color .4s;
+    transition: opacity .4s,background-color .4s,color .4s;
+}
