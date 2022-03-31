@@ -81,3 +81,9 @@
     -webkit-transition: opacity .4s,background-color .4s,color .4s;
     transition: opacity .4s,background-color .4s,color .4s;
 }
+
+.has-mouse .rwc-button--outlined.rwc-button--primary[data-v-1e541e8d]:hover:not(.rwc-button--disabled) {
+    opacity: .8;
+    background: #fd7e14;
+    color: var(--c-white);
+}
